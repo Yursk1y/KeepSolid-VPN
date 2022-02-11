@@ -1,0 +1,16 @@
+C:\Users\Kolin\source\repos\KeepSolid_VPN\bin\Debug\KeepSolid_VPN.exe.config
+C:\Users\Kolin\source\repos\KeepSolid_VPN\bin\Debug\KeepSolid_VPN.exe
+C:\Users\Kolin\source\repos\KeepSolid_VPN\bin\Debug\KeepSolid_VPN.pdb
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.csproj.AssemblyReference.cache
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form1.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Properties.Resources.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.csproj.GenerateResource.cache
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.csproj.CoreCompileInputs.cache
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.exe
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.pdb
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form2.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form3.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form4.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form5.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form6.resources
+C:\Users\Kolin\source\repos\KeepSolid_VPN\obj\Debug\KeepSolid_VPN.Form7.resources
